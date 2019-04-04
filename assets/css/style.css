@@ -1,0 +1,86 @@
+body {
+  background-color: lightblue;
+}
+
+#end-page {
+  display: none;
+}
+
+#main-logo {
+  padding-top: 20px;
+  width: 40%;
+}
+
+h1 {
+  font-family: 'Dokdo';
+  font-size: 6em;
+}
+
+h2 {
+  font-family: 'Muli';
+ 
+}
+
+p {
+  font-family: 'Muli';
+}
+
+label {
+  font-size: 16px;
+  font-family: 'Muli';
+
+}
+
+
+#end-page p {
+  font-size: 20px;
+  font-family: 'Muli';
+
+}
+
+#correct-answers {
+  margin-top: 32px;
+  font-family: 'Muli';
+
+}
+
+#question {
+  margin-top: 32px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Muli';
+  padding-bottom: 10px;
+
+}
+
+footer {
+  height: 50px;
+  font-family: 'Muli';
+
+
+}
+
+#copyright-small {
+  position: sticky;
+  font-size: 12px;
+  background-color: lightcoral;
+  padding: 10px 0px 10px 0px;
+  color: lightgoldenrodyellow;
+  margin-bottom: 0;
+}
+
+#timer {
+  margin-top: 20px;
+  font-family: 'Muli';
+
+}
+
+#done-button {
+  margin-top: 20px;
+  font-family: 'Muli';
+
+}
+
+#disclaimer {
+  font-size: 14px;
+}
